@@ -1,0 +1,23 @@
+.odd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.even{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.oddElements{
+    background-color: sandybrown;
+    padding:10vh 10vw;
+}
+h3{
+    padding:5px;
+}
+.evenElements{
+    background-color: rgb(96, 123, 244);
+    padding:10vh 10vw;
+}
